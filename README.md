@@ -1,2 +1,2 @@
-# Masters_Data_Science_Projects
+# Predicting pulsar stars
 Data Science Projects from Masters Degree Programme - Lancaster University.
