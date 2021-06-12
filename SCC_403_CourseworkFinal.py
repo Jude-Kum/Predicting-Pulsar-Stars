@@ -1,3 +1,5 @@
+##Using supervised learning algorithms to classify pulsar stars.
+
 import numpy as np #importing numpy library for metrics.
 import pandas as pd #for datahandling as dataframes
 import matplotlib.pyplot as plt #used for data visualization
